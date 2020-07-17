@@ -1,0 +1,29 @@
+{
+  "storeApp": {
+    "invoice": {
+      "home": {
+        "title": "Invoices",
+        "createLabel": "สร้าง Invoice",
+        "createOrEditLabel": "สร้างหรือแก้ไข Invoice",
+        "notFound": "No Invoices found"
+      },
+      "created": "Invoice ถูกสร้างด้วย {{ param }}",
+      "updated": "Invoice ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Invoice ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Invoice {{ id }}?"
+      },
+      "detail": {
+        "title": "Invoice"
+      },
+      "date": "Date",
+      "details": "Details",
+      "status": "Status",
+      "paymentMethod": "Payment Method",
+      "paymentDate": "Payment Date",
+      "paymentAmount": "Payment Amount",
+      "shipment": "Shipment",
+      "order": "Order"
+    }
+  }
+}
